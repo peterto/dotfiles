@@ -36,6 +36,7 @@ brew tap josegonzalez/homebrew-php
 brew install ack
 #brew install exiv2
 brew install git
+brew install bash-completion
 #brew install imagemagick
 brew install lynx
 brew install node
